@@ -27,7 +27,7 @@ Repositório com resumos organizados dos principais tópicos da certificação I
 - Níveis e Tipos de Teste
 - Gestão de Testes
 
-🔗 Acesse os estudos: https://github.com/igorrodrigo07/qa-estudos
+🔗 Acesse os estudos: https://github.com/igorrodrigo07/CTFL-Study-Notes
 
 ---
 
