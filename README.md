@@ -14,7 +14,7 @@ Projeto prático simulando testes em um sistema de e-commerce.
 - Planejamento e execução em Sprint (Scrum)
 - Gestão no JIRA
 
-🔗 Acesse o projeto: https://github.com/igorrodrigo07/qa-manual-tests-ecommerce
+🔗 Acesse o projeto: https://github.com/igorrodrigo07/QA-Manual-Testing-Ecommerce
 
 ---
 
